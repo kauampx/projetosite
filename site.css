@@ -1,0 +1,2782 @@
+.mediaViewInfo {
+	--web-view-name: Custom Size – 1;
+	--web-view-id: Custom_Size__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Custom_Size__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Custom_Size__1 {
+	position: absolute;
+	width: 1600px;
+	height: 3324px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Custom Size – 1;
+	--web-view-id: Custom_Size__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Retngulo_7 {
+	fill: rgba(13,13,13,1);
+}
+.Retngulo_7 {
+	position: absolute;
+	overflow: visible;
+	width: 1600px;
+	height: 800px;
+	left: 0px;
+	top: 120px;
+}
+#como_montar_um_estudio_de_tatu {
+	opacity: 0.36;
+	position: absolute;
+	width: 1600px;
+	height: 800px;
+	left: 0px;
+	top: 119px;
+	overflow: visible;
+}
+#hader {
+	position: absolute;
+	width: 1600px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Retngulo_1 {
+	fill: rgba(109,2,2,1);
+}
+.Retngulo_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1600px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+#Grupo_1 {
+	position: absolute;
+	width: 270px;
+	height: 107.49px;
+	left: 215px;
+	top: 8px;
+	overflow: visible;
+}
+#Caminho_1 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_1 {
+	overflow: visible;
+	position: absolute;
+	width: 270px;
+	height: 107.49px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_2 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_2 {
+	overflow: visible;
+	position: absolute;
+	width: 14.181px;
+	height: 17.683px;
+	left: 51.728px;
+	top: 25.501px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_3 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_3 {
+	overflow: visible;
+	position: absolute;
+	width: 6.825px;
+	height: 19.177px;
+	left: 59.047px;
+	top: 44.037px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_4 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_4 {
+	overflow: visible;
+	position: absolute;
+	width: 6.29px;
+	height: 24.735px;
+	left: 51.302px;
+	top: 54.314px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_5 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_5 {
+	overflow: visible;
+	position: absolute;
+	width: 15.776px;
+	height: 13.485px;
+	left: 22.502px;
+	top: 57.701px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_6 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_6 {
+	overflow: visible;
+	position: absolute;
+	width: 23.956px;
+	height: 15.805px;
+	left: 30.44px;
+	top: 71.36px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_7 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_7 {
+	overflow: visible;
+	position: absolute;
+	width: 46.894px;
+	height: 16.764px;
+	left: 29.047px;
+	top: 72.159px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_8 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_8 {
+	overflow: visible;
+	position: absolute;
+	width: 45.354px;
+	height: 23.227px;
+	left: 3.977px;
+	top: 24.75px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_9 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_9 {
+	overflow: visible;
+	position: absolute;
+	width: 25.774px;
+	height: 6.606px;
+	left: 17.175px;
+	top: 66.044px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_10 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_10 {
+	overflow: visible;
+	position: absolute;
+	width: 18.173px;
+	height: 16.599px;
+	left: 32.998px;
+	top: 32.1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_11 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_11 {
+	overflow: visible;
+	position: absolute;
+	width: 16.267px;
+	height: 1.411px;
+	left: 50.156px;
+	top: 24.365px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_12 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_12 {
+	overflow: visible;
+	position: absolute;
+	width: 17.559px;
+	height: 7.739px;
+	left: 61.633px;
+	top: 11.558px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_13 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_13 {
+	overflow: visible;
+	position: absolute;
+	width: 13.376px;
+	height: 7.511px;
+	left: 47.214px;
+	top: 74.541px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_14 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_14 {
+	overflow: visible;
+	position: absolute;
+	width: 11.634px;
+	height: 6.627px;
+	left: 66.636px;
+	top: 25.247px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_15 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_15 {
+	overflow: visible;
+	position: absolute;
+	width: 7.868px;
+	height: 1.323px;
+	left: 58.534px;
+	top: 42.89px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_16 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_16 {
+	overflow: visible;
+	position: absolute;
+	width: 7.905px;
+	height: 1.458px;
+	left: 58.515px;
+	top: 63.096px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_17 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_17 {
+	overflow: visible;
+	position: absolute;
+	width: 7.162px;
+	height: 4.066px;
+	left: 74.115px;
+	top: 31.782px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_18 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_18 {
+	overflow: visible;
+	position: absolute;
+	width: 6.557px;
+	height: 3.202px;
+	left: 44.615px;
+	top: 48.293px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_19 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_19 {
+	overflow: visible;
+	position: absolute;
+	width: 6.152px;
+	height: 2.937px;
+	left: 5.927px;
+	top: 55.47px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_20 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_20 {
+	overflow: visible;
+	position: absolute;
+	width: 2.636px;
+	height: 1.547px;
+	left: 64.72px;
+	top: 19.28px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_21 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_21 {
+	overflow: visible;
+	position: absolute;
+	width: 2.679px;
+	height: 1.133px;
+	left: 58.541px;
+	top: 31.28px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_22 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_22 {
+	overflow: visible;
+	position: absolute;
+	width: 2.286px;
+	height: 0.802px;
+	left: 47.651px;
+	top: 41.949px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_23 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_23 {
+	overflow: visible;
+	position: absolute;
+	width: 1.27px;
+	height: 1.341px;
+	left: 49.161px;
+	top: 25.886px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_24 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_24 {
+	overflow: visible;
+	position: absolute;
+	width: 0.937px;
+	height: 1.583px;
+	left: 43.809px;
+	top: 49.95px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_25 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_25 {
+	overflow: visible;
+	position: absolute;
+	width: 1.169px;
+	height: 1.349px;
+	left: 52.723px;
+	top: 9.404px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_26 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_26 {
+	overflow: visible;
+	position: absolute;
+	width: 20.254px;
+	height: 31.241px;
+	left: 192.488px;
+	top: 51.028px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_27 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_27 {
+	overflow: visible;
+	position: absolute;
+	width: 2.972px;
+	height: 12.944px;
+	left: 198.424px;
+	top: 39.317px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_28 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_28 {
+	overflow: visible;
+	position: absolute;
+	width: 56.817px;
+	height: 10.819px;
+	left: 145.577px;
+	top: 68.847px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_29 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_29 {
+	overflow: visible;
+	position: absolute;
+	width: 2.986px;
+	height: 11.171px;
+	left: 198.432px;
+	top: 27.447px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_30 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_30 {
+	overflow: visible;
+	position: absolute;
+	width: 56.617px;
+	height: 18.051px;
+	left: 155.054px;
+	top: 74.982px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_31 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_31 {
+	overflow: visible;
+	position: absolute;
+	width: 2.953px;
+	height: 9.505px;
+	left: 198.424px;
+	top: 52.947px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_32 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_32 {
+	overflow: visible;
+	position: absolute;
+	width: 15.43px;
+	height: 7.063px;
+	left: 190.843px;
+	top: 61.308px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_33 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_33 {
+	overflow: visible;
+	position: absolute;
+	width: 7.767px;
+	height: 5.475px;
+	left: 212.647px;
+	top: 24.268px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_34 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_34 {
+	overflow: visible;
+	position: absolute;
+	width: 5.662px;
+	height: 3.327px;
+	left: 197.995px;
+	top: 25.029px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_35 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_35 {
+	overflow: visible;
+	position: absolute;
+	width: 5.019px;
+	height: 2.361px;
+	left: 211.533px;
+	top: 72.049px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_36 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_36 {
+	overflow: visible;
+	position: absolute;
+	width: 2.376px;
+	height: 2.855px;
+	left: 189.179px;
+	top: 24.138px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_37 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_37 {
+	overflow: visible;
+	position: absolute;
+	width: 1.493px;
+	height: 2.406px;
+	left: 204.754px;
+	top: 26.194px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_38 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_38 {
+	overflow: visible;
+	position: absolute;
+	width: 1.129px;
+	height: 0.658px;
+	left: 201.235px;
+	top: 72.588px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_39 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_39 {
+	overflow: visible;
+	position: absolute;
+	width: 5.33px;
+	height: 13.082px;
+	left: 107.545px;
+	top: 51.378px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_40 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_40 {
+	overflow: visible;
+	position: absolute;
+	width: 5.426px;
+	height: 12.88px;
+	left: 120.95px;
+	top: 50.838px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_41 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_41 {
+	overflow: visible;
+	position: absolute;
+	width: 65.664px;
+	height: 21.022px;
+	left: 125.172px;
+	top: 8.484px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_42 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_42 {
+	overflow: visible;
+	position: absolute;
+	width: 9.957px;
+	height: 1.618px;
+	left: 95.992px;
+	top: 30.323px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_43 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_43 {
+	overflow: visible;
+	position: absolute;
+	width: 8.925px;
+	height: 4.124px;
+	left: 106.198px;
+	top: 62.196px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_44 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_44 {
+	overflow: visible;
+	position: absolute;
+	width: 8.98px;
+	height: 4.135px;
+	left: 119.601px;
+	top: 61.43px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_45 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_45 {
+	overflow: visible;
+	position: absolute;
+	width: 8.157px;
+	height: 1.883px;
+	left: 111.725px;
+	top: 30.211px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_46 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_46 {
+	overflow: visible;
+	position: absolute;
+	width: 6.543px;
+	height: 2.12px;
+	left: 111.727px;
+	top: 26.967px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_47 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_47 {
+	overflow: visible;
+	position: absolute;
+	width: 5.442px;
+	height: 1.337px;
+	left: 90.254px;
+	top: 12.739px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_48 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_48 {
+	overflow: visible;
+	position: absolute;
+	width: 9.154px;
+	height: 0.683px;
+	left: 97.311px;
+	top: 29.462px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_49 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_49 {
+	overflow: visible;
+	position: absolute;
+	width: 3.524px;
+	height: 1.818px;
+	left: 125.338px;
+	top: 22.855px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_50 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_50 {
+	overflow: visible;
+	position: absolute;
+	width: 3.503px;
+	height: 1.824px;
+	left: 111.923px;
+	top: 23.609px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_51 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_51 {
+	overflow: visible;
+	position: absolute;
+	width: 2.47px;
+	height: 2.852px;
+	left: 203.328px;
+	top: 18.632px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_52 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_52 {
+	overflow: visible;
+	position: absolute;
+	width: 1.645px;
+	height: 1.379px;
+	left: 200.672px;
+	top: 20.334px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_53 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_53 {
+	overflow: visible;
+	position: absolute;
+	width: 1.735px;
+	height: 0.983px;
+	left: 98.012px;
+	top: 24.384px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_54 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_54 {
+	overflow: visible;
+	position: absolute;
+	width: 1.132px;
+	height: 0.881px;
+	left: 93.493px;
+	top: 17.343px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_55 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_55 {
+	overflow: visible;
+	position: absolute;
+	width: 17.321px;
+	height: 14.34px;
+	left: 244.898px;
+	top: 57.067px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_56 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_56 {
+	overflow: visible;
+	position: absolute;
+	width: 7.377px;
+	height: 16.717px;
+	left: 249.771px;
+	top: 50.095px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_57 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_57 {
+	overflow: visible;
+	position: absolute;
+	width: 20.744px;
+	height: 6.503px;
+	left: 243.204px;
+	top: 66.369px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_58 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_58 {
+	overflow: visible;
+	position: absolute;
+	width: 8.396px;
+	height: 11.061px;
+	left: 249.382px;
+	top: 48.848px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_59 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_59 {
+	overflow: visible;
+	position: absolute;
+	width: 3.401px;
+	height: 2.874px;
+	left: 262.867px;
+	top: 37.006px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_60 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_60 {
+	overflow: visible;
+	position: absolute;
+	width: 0.868px;
+	height: 1.457px;
+	left: 255.897px;
+	top: 61.342px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_61 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_61 {
+	overflow: visible;
+	position: absolute;
+	width: 0.765px;
+	height: 1.676px;
+	left: 243.383px;
+	top: 34.974px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_62 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_62 {
+	overflow: visible;
+	position: absolute;
+	width: 0.821px;
+	height: 1.078px;
+	left: 256.305px;
+	top: 35.994px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_63 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_63 {
+	overflow: visible;
+	position: absolute;
+	width: 19.306px;
+	height: 14.341px;
+	left: 81.549px;
+	top: 51.6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_64 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_64 {
+	overflow: visible;
+	position: absolute;
+	width: 7.236px;
+	height: 16.927px;
+	left: 86.662px;
+	top: 44.328px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_65 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_65 {
+	overflow: visible;
+	position: absolute;
+	width: 23.117px;
+	height: 5.06px;
+	left: 79.955px;
+	top: 62.73px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_66 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_66 {
+	overflow: visible;
+	position: absolute;
+	width: 2.254px;
+	height: 4.924px;
+	left: 86.726px;
+	top: 45.168px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_67 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_67 {
+	overflow: visible;
+	position: absolute;
+	width: 10.21px;
+	height: 3.716px;
+	left: 78.597px;
+	top: 38.876px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_68 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_68 {
+	overflow: visible;
+	position: absolute;
+	width: 8.184px;
+	height: 11.486px;
+	left: 86.266px;
+	top: 43.188px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_69 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_69 {
+	overflow: visible;
+	position: absolute;
+	width: 7.541px;
+	height: 3.597px;
+	left: 86.174px;
+	top: 35.077px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_70 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_70 {
+	overflow: visible;
+	position: absolute;
+	width: 1.859px;
+	height: 1.46px;
+	left: 87.634px;
+	top: 44.299px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_71 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_71 {
+	overflow: visible;
+	position: absolute;
+	width: 0.871px;
+	height: 1.583px;
+	left: 80.115px;
+	top: 46.284px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_72 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_72 {
+	overflow: visible;
+	position: absolute;
+	width: 0.859px;
+	height: 1.453px;
+	left: 92.639px;
+	top: 55.848px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_73 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_73 {
+	overflow: visible;
+	position: absolute;
+	width: 0.846px;
+	height: 0.966px;
+	left: 86.229px;
+	top: 44.814px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_74 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_74 {
+	overflow: visible;
+	position: absolute;
+	width: 0.593px;
+	height: 1.213px;
+	left: 99.754px;
+	top: 35.026px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_75 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_75 {
+	overflow: visible;
+	position: absolute;
+	width: 17.55px;
+	height: 14.235px;
+	left: 219.737px;
+	top: 53.959px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_76 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_76 {
+	overflow: visible;
+	position: absolute;
+	width: 7.21px;
+	height: 16.72px;
+	left: 224.878px;
+	top: 46.916px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_77 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_77 {
+	overflow: visible;
+	position: absolute;
+	width: 6.576px;
+	height: 13.816px;
+	left: 224.927px;
+	top: 38.523px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_78 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_78 {
+	overflow: visible;
+	position: absolute;
+	width: 20.767px;
+	height: 5.556px;
+	left: 218.157px;
+	top: 64.602px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_79 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_79 {
+	overflow: visible;
+	position: absolute;
+	width: 8.292px;
+	height: 11.183px;
+	left: 224.391px;
+	top: 45.665px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_80 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_80 {
+	overflow: visible;
+	position: absolute;
+	width: 7.473px;
+	height: 3.194px;
+	left: 224.466px;
+	top: 37.34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_81 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_81 {
+	overflow: visible;
+	position: absolute;
+	width: 0.87px;
+	height: 1.431px;
+	left: 230.84px;
+	top: 58.269px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_82 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_82 {
+	overflow: visible;
+	position: absolute;
+	width: 0.609px;
+	height: 1.232px;
+	left: 237.967px;
+	top: 37.779px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_83 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_83 {
+	overflow: visible;
+	position: absolute;
+	width: 17.543px;
+	height: 14.535px;
+	left: 134.951px;
+	top: 50.173px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_84 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_84 {
+	overflow: visible;
+	position: absolute;
+	width: 7.233px;
+	height: 16.784px;
+	left: 140.047px;
+	top: 43.119px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_85 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_85 {
+	overflow: visible;
+	position: absolute;
+	width: 6.584px;
+	height: 13.948px;
+	left: 140.08px;
+	top: 34.869px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_86 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_86 {
+	overflow: visible;
+	position: absolute;
+	width: 20.852px;
+	height: 5.02px;
+	left: 133.305px;
+	top: 61.393px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_87 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_87 {
+	overflow: visible;
+	position: absolute;
+	width: 8.302px;
+	height: 11.322px;
+	left: 139.561px;
+	top: 41.84px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_88 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_88 {
+	overflow: visible;
+	position: absolute;
+	width: 7.604px;
+	height: 3.229px;
+	left: 139.542px;
+	top: 33.668px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_89 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_89 {
+	overflow: visible;
+	position: absolute;
+	width: 0.864px;
+	height: 1.334px;
+	left: 145.998px;
+	top: 54.512px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_90 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_90 {
+	overflow: visible;
+	position: absolute;
+	width: 0.573px;
+	height: 1.115px;
+	left: 153.173px;
+	top: 33.666px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_91 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_91 {
+	overflow: visible;
+	position: absolute;
+	width: 0.558px;
+	height: 1.262px;
+	left: 133.759px;
+	top: 33.761px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_92 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_92 {
+	overflow: visible;
+	position: absolute;
+	width: 17.331px;
+	height: 14.41px;
+	left: 158.834px;
+	top: 50.524px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_93 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_93 {
+	overflow: visible;
+	position: absolute;
+	width: 7.207px;
+	height: 16.8px;
+	left: 163.857px;
+	top: 43.528px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_94 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_94 {
+	overflow: visible;
+	position: absolute;
+	width: 6.547px;
+	height: 13.875px;
+	left: 163.912px;
+	top: 35.317px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_95 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_95 {
+	overflow: visible;
+	position: absolute;
+	width: 20.761px;
+	height: 5.048px;
+	left: 157.119px;
+	top: 61.778px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_96 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_96 {
+	overflow: visible;
+	position: absolute;
+	width: 8.279px;
+	height: 11.472px;
+	left: 163.352px;
+	top: 42.263px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_97 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_97 {
+	overflow: visible;
+	position: absolute;
+	width: 7.489px;
+	height: 3.224px;
+	left: 163.436px;
+	top: 34.095px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_98 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_98 {
+	overflow: visible;
+	position: absolute;
+	width: 0.859px;
+	height: 1.432px;
+	left: 169.822px;
+	top: 54.911px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_99 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_99 {
+	overflow: visible;
+	position: absolute;
+	width: 0.589px;
+	height: 1.227px;
+	left: 176.941px;
+	top: 34.094px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_100 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_100 {
+	overflow: visible;
+	position: absolute;
+	width: 54.015px;
+	height: 12.806px;
+	left: 206.763px;
+	top: 81.748px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_101 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_101 {
+	overflow: visible;
+	position: absolute;
+	width: 46.199px;
+	height: 16.059px;
+	left: 203.448px;
+	top: 84.964px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_102 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_102 {
+	overflow: visible;
+	position: absolute;
+	width: 44.078px;
+	height: 9.668px;
+	left: 213.506px;
+	top: 83.404px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_103 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_103 {
+	overflow: visible;
+	position: absolute;
+	width: 30.164px;
+	height: 10.795px;
+	left: 213.186px;
+	top: 88.84px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_104 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_104 {
+	overflow: visible;
+	position: absolute;
+	width: 0.966px;
+	height: 1.033px;
+	left: 258.357px;
+	top: 75.889px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_105 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_105 {
+	overflow: visible;
+	position: absolute;
+	width: 61.955px;
+	height: 21.367px;
+	left: 129.489px;
+	top: 1.894px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_106 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_106 {
+	overflow: visible;
+	position: absolute;
+	width: 6.673px;
+	height: 1.898px;
+	left: 195.78px;
+	top: 2.28px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_107 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_107 {
+	overflow: visible;
+	position: absolute;
+	width: 1.611px;
+	height: 1.647px;
+	left: 230.438px;
+	top: 28.376px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_108 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_108 {
+	overflow: visible;
+	position: absolute;
+	width: 1.8px;
+	height: 1.553px;
+	left: 251.029px;
+	top: 29.457px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_109 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_109 {
+	overflow: visible;
+	position: absolute;
+	width: 1.309px;
+	height: 1.514px;
+	left: 227.829px;
+	top: 26.331px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_110 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_110 {
+	overflow: visible;
+	position: absolute;
+	width: 1.346px;
+	height: 1.386px;
+	left: 229.76px;
+	top: 19.233px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_111 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_111 {
+	overflow: visible;
+	position: absolute;
+	width: 1.31px;
+	height: 0.95px;
+	left: 229.741px;
+	top: 26.972px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_112 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_112 {
+	overflow: visible;
+	position: absolute;
+	width: 0.755px;
+	height: 1.1px;
+	left: 228.717px;
+	top: 22.848px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_113 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_113 {
+	overflow: visible;
+	position: absolute;
+	width: 26.225px;
+	height: 3.713px;
+	left: 144.094px;
+	top: 22.05px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_114 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_114 {
+	overflow: visible;
+	position: absolute;
+	width: 13.679px;
+	height: 7.613px;
+	left: 159.618px;
+	top: 82.172px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_115 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_115 {
+	overflow: visible;
+	position: absolute;
+	width: 1.377px;
+	height: 2.321px;
+	left: 160.731px;
+	top: 77.945px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_116 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_116 {
+	overflow: visible;
+	position: absolute;
+	width: 10.887px;
+	height: 3.025px;
+	left: 91.581px;
+	top: 5.899px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_117 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_117 {
+	overflow: visible;
+	position: absolute;
+	width: 2.009px;
+	height: 1.695px;
+	left: 102.179px;
+	top: 9.17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_118 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_118 {
+	overflow: visible;
+	position: absolute;
+	width: 5.707px;
+	height: 6.218px;
+	left: 250.012px;
+	top: 80.56px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_119 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_119 {
+	overflow: visible;
+	position: absolute;
+	width: 4.529px;
+	height: 3.12px;
+	left: 249.98px;
+	top: 77.063px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_120 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_120 {
+	overflow: visible;
+	position: absolute;
+	width: 21.983px;
+	height: 9.273px;
+	left: 177.864px;
+	top: 73.571px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_121 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_121 {
+	overflow: visible;
+	position: absolute;
+	width: 8.882px;
+	height: 7.596px;
+	left: 180.519px;
+	top: 28.302px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_122 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_122 {
+	overflow: visible;
+	position: absolute;
+	width: 3.538px;
+	height: 3.489px;
+	left: 182.142px;
+	top: 23.749px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_123 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_123 {
+	overflow: visible;
+	position: absolute;
+	width: 12.076px;
+	height: 6.409px;
+	left: 185.086px;
+	top: 78.878px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_124 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_124 {
+	overflow: visible;
+	position: absolute;
+	width: 10.041px;
+	height: 5.646px;
+	left: 167.646px;
+	top: 82.271px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_125 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_125 {
+	overflow: visible;
+	position: absolute;
+	width: 0.749px;
+	height: 1.474px;
+	left: 168.615px;
+	top: 79.022px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_126 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_126 {
+	overflow: visible;
+	position: absolute;
+	width: 5.351px;
+	height: 6.798px;
+	left: 199.69px;
+	top: 87.748px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_127 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_127 {
+	overflow: visible;
+	position: absolute;
+	width: 1.952px;
+	height: 2.643px;
+	left: 204.221px;
+	top: 94.761px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_128 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_128 {
+	overflow: visible;
+	position: absolute;
+	width: 4.932px;
+	height: 2.531px;
+	left: 209.972px;
+	top: 95.249px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_129 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_129 {
+	overflow: visible;
+	position: absolute;
+	width: 1.386px;
+	height: 1.864px;
+	left: 210.961px;
+	top: 93.253px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_130 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_130 {
+	overflow: visible;
+	position: absolute;
+	width: 1.06px;
+	height: 2.528px;
+	left: 209.01px;
+	top: 91.807px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_131 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_131 {
+	overflow: visible;
+	position: absolute;
+	width: 2.867px;
+	height: 2.352px;
+	left: 131.241px;
+	top: 8.861px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_132 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_132 {
+	overflow: visible;
+	position: absolute;
+	width: 1.771px;
+	height: 3.832px;
+	left: 132.96px;
+	top: 11.898px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_133 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_133 {
+	overflow: visible;
+	position: absolute;
+	width: 2.322px;
+	height: 1.835px;
+	left: 239.353px;
+	top: 77.933px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_134 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_134 {
+	overflow: visible;
+	position: absolute;
+	width: 1.316px;
+	height: 2.754px;
+	left: 240.904px;
+	top: 80.089px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_135 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_135 {
+	overflow: visible;
+	position: absolute;
+	width: 0.739px;
+	height: 1.207px;
+	left: 66.152px;
+	top: 95.545px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_136 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_136 {
+	overflow: visible;
+	position: absolute;
+	width: 0.78px;
+	height: 0.723px;
+	left: 66.09px;
+	top: 89.938px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_137 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_137 {
+	overflow: visible;
+	position: absolute;
+	width: 0.925px;
+	height: 0.708px;
+	left: 69.168px;
+	top: 93.161px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_138 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_138 {
+	overflow: visible;
+	position: absolute;
+	width: 0.915px;
+	height: 0.708px;
+	left: 62.934px;
+	top: 93.158px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_139 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_139 {
+	overflow: visible;
+	position: absolute;
+	width: 1.284px;
+	height: 3.408px;
+	left: 138.544px;
+	top: 8.561px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_140 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_140 {
+	overflow: visible;
+	position: absolute;
+	width: 5.38px;
+	height: 3.069px;
+	left: 173.775px;
+	top: 18.059px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_141 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_141 {
+	overflow: visible;
+	position: absolute;
+	width: 1.204px;
+	height: 2.418px;
+	left: 152.505px;
+	top: 83.71px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_142 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_142 {
+	overflow: visible;
+	position: absolute;
+	width: 4.242px;
+	height: 2.693px;
+	left: 140.995px;
+	top: 10.973px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_143 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_143 {
+	overflow: visible;
+	position: absolute;
+	width: 3.411px;
+	height: 4.26px;
+	left: 82.678px;
+	top: 74.812px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_144 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_144 {
+	overflow: visible;
+	position: absolute;
+	width: 3.418px;
+	height: 4.292px;
+	left: 82.669px;
+	top: 82.109px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_145 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_145 {
+	overflow: visible;
+	position: absolute;
+	width: 1.614px;
+	height: 3.066px;
+	left: 124.539px;
+	top: 79.361px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_146 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_146 {
+	overflow: visible;
+	position: absolute;
+	width: 1.047px;
+	height: 1.636px;
+	left: 102.965px;
+	top: 80.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_147 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_147 {
+	overflow: visible;
+	position: absolute;
+	width: 0.957px;
+	height: 1.519px;
+	left: 102.968px;
+	top: 79.294px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_148 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_148 {
+	overflow: visible;
+	position: absolute;
+	width: 1.212px;
+	height: 1.735px;
+	left: 139.127px;
+	top: 79.423px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_149 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_149 {
+	overflow: visible;
+	position: absolute;
+	width: 1.184px;
+	height: 1.619px;
+	left: 132.438px;
+	top: 79.474px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_150 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_150 {
+	overflow: visible;
+	position: absolute;
+	width: 0.785px;
+	height: 1.132px;
+	left: 99.033px;
+	top: 79.99px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_151 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_151 {
+	overflow: visible;
+	position: absolute;
+	width: 0.825px;
+	height: 1.039px;
+	left: 85.304px;
+	top: 80.21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_2 {
+	position: absolute;
+	width: 48.334px;
+	height: 48.295px;
+	left: 865.995px;
+	top: 35px;
+	overflow: visible;
+}
+#Caminho_152 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_152 {
+	overflow: visible;
+	position: absolute;
+	width: 48.334px;
+	height: 48.295px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_153 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_153 {
+	overflow: visible;
+	position: absolute;
+	width: 24.276px;
+	height: 22.387px;
+	left: 12.693px;
+	top: 12.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_3 {
+	position: absolute;
+	width: 41.952px;
+	height: 66.579px;
+	left: 1057.311px;
+	top: 25px;
+	overflow: visible;
+}
+#Caminho_154 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_154 {
+	overflow: visible;
+	position: absolute;
+	width: 39.778px;
+	height: 15.712px;
+	left: 1.127px;
+	top: 50.867px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_155 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_155 {
+	overflow: visible;
+	position: absolute;
+	width: 41.952px;
+	height: 55.535px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_156 {
+	fill: rgba(255,255,255,1);
+}
+.Caminho_156 {
+	overflow: visible;
+	position: absolute;
+	width: 16.109px;
+	height: 16.166px;
+	left: 12.953px;
+	top: 12.681px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_8_9999-9999 {
+	left: 921.01px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#AV_Gernimo_de_Alburquerque_n_4 {
+	left: 1107.851px;
+	top: 38px;
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#hamburgue {
+	position: absolute;
+	width: 70px;
+	height: 33.216px;
+	left: 1315px;
+	top: 42px;
+	overflow: visible;
+}
+#Retngulo_3 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_3 {
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	height: 9.342px;
+	left: 0px;
+	top: 0px;
+}
+#Retngulo_4 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_4 {
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	height: 8.304px;
+	left: 0px;
+	top: 12.456px;
+}
+#Retngulo_5 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_5 {
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	height: 8.304px;
+	left: 0px;
+	top: 24.912px;
+}
+#descriao {
+	position: absolute;
+	width: 602px;
+	height: 413px;
+	left: 214px;
+	top: 449px;
+	overflow: visible;
+}
+#Tatto_You {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(255,255,255,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+	left: 2px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 601px;
+	height: 240px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#agende_seu_horario {
+	position: absolute;
+	width: 270px;
+	height: 86px;
+	left: 2px;
+	top: 327px;
+	overflow: visible;
+}
+#Retngulo_6 {
+	fill: rgba(109,2,2,1);
+}
+.Retngulo_6 {
+	position: absolute;
+	overflow: visible;
+	width: 270px;
+	height: 86px;
+	left: 0px;
+	top: 0px;
+}
+#Agende_seu_Horario_fa {
+	left: 35px;
+	top: 28px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#Retngulo_8 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_8 {
+	position: absolute;
+	overflow: visible;
+	width: 1600px;
+	height: 600px;
+	left: 0px;
+	top: 919px;
+}
+#O_melhor_stdio_da_ilha {
+	left: 315px;
+	top: 1084px;
+	position: absolute;
+	overflow: visible;
+	width: 507px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(109,2,2,1);
+}
+#Sobre_o_studio {
+	left: 315px;
+	top: 1061px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_fe {
+	left: 317px;
+	top: 1156px;
+	position: absolute;
+	overflow: visible;
+	width: 569px;
+	height: 261px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(0,0,0,1);
+}
+#Retngulo_11 {
+	opacity: 0.14;
+	fill: rgba(0,0,0,1);
+}
+.Retngulo_11 {
+	position: absolute;
+	overflow: visible;
+	width: 393px;
+	height: 388px;
+	left: 940px;
+	top: 1021px;
+}
+#ambiente {
+	position: absolute;
+	width: 375px;
+	height: 375px;
+	left: 940px;
+	top: 1027px;
+	overflow: visible;
+}
+#Retngulo_9 {
+	fill: rgba(109,2,2,1);
+}
+.Retngulo_9 {
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	height: 6px;
+	left: 315px;
+	top: 1045px;
+}
+#Retngulo_10 {
+	fill: transparent;
+	stroke: rgba(109,2,2,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_10 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 368px;
+	left: 925px;
+	top: 1043px;
+}
+#tattoo-machine {
+	fill: rgba(0,0,0,1);
+}
+.tattoo-machine {
+	position: absolute;
+	overflow: visible;
+	width: 1600px;
+	height: 400px;
+	left: 0px;
+	top: 1519px;
+}
+#tattoo-machine_fk {
+	opacity: 0.2;
+	position: absolute;
+	width: 1600px;
+	height: 400px;
+	left: 0px;
+	top: 1519px;
+	overflow: visible;
+}
+#depoimentos {
+	position: absolute;
+	width: 770px;
+	height: 190px;
+	left: 315px;
+	top: 1615px;
+	overflow: visible;
+}
+#Atendimento_pontual_ambiente_c {
+	left: 2px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 711px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#Melhor_experincia_no_ramo_de_t {
+	left: 0px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 585px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#Kadu {
+	left: 632px;
+	top: 46px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#Maria {
+	left: 505px;
+	top: 132px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#pexels-photo-2379004 {
+	position: absolute;
+	width: 70px;
+	height: 74px;
+	left: 700px;
+	top: 15px;
+	overflow: visible;
+}
+#formacao_1600x1200-como-a-pres {
+	position: absolute;
+	width: 70px;
+	height: 74px;
+	left: 586px;
+	top: 116px;
+	overflow: visible;
+}
+#Retngulo_12 {
+	fill: rgba(229,228,228,0.969);
+}
+.Retngulo_12 {
+	position: absolute;
+	overflow: visible;
+	width: 1600px;
+	height: 800px;
+	left: 17px;
+	top: 1924px;
+}
+#Nossos_servios {
+	left: 721px;
+	top: 2001px;
+	position: absolute;
+	overflow: visible;
+	width: 338px;
+	height: 40px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(248,69,69,1);
+}
+#Conhea_nossos_estilos__ {
+	left: 584px;
+	top: 2055px;
+	position: absolute;
+	overflow: visible;
+	width: 654px;
+	height: 201px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(248,69,69,1);
+}
+#Retngulo_13 {
+	fill: rgba(248,69,69,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_13 {
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	height: 13px;
+	left: 734px;
+	top: 1974px;
+}
+#Grupo_106 {
+	position: absolute;
+	width: 133.485px;
+	height: 149.115px;
+	left: 585px;
+	top: 2176px;
+	overflow: visible;
+}
+#Grupo_105 {
+	position: absolute;
+	width: 133.485px;
+	height: 149.115px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_107 {
+	position: absolute;
+	width: 105.909px;
+	height: 146.578px;
+	left: 285px;
+	top: 2177px;
+	overflow: visible;
+}
+#Caminho_157 {
+	fill: rgba(248,69,69,1);
+}
+.Caminho_157 {
+	overflow: visible;
+	position: absolute;
+	width: 105.909px;
+	height: 146.578px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_108 {
+	position: absolute;
+	width: 99.932px;
+	height: 172.114px;
+	left: 890.068px;
+	top: 2164px;
+	overflow: visible;
+}
+#Caminho_158 {
+	fill: rgba(248,69,69,1);
+}
+.Caminho_158 {
+	overflow: visible;
+	position: absolute;
+	width: 99.932px;
+	height: 172.115px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_159 {
+	fill: rgba(248,69,69,1);
+}
+.Caminho_159 {
+	overflow: visible;
+	position: absolute;
+	width: 182.397px;
+	height: 128.115px;
+	left: 1162.527px;
+	top: 2186px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Geomtrico {
+	left: 860px;
+	top: 2358px;
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 40px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(248,69,69,1);
+}
+#Old_school {
+	left: 273px;
+	top: 2358px;
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 40px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(248,69,69,1);
+}
+#pontilhista {
+	left: 601px;
+	top: 2358px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 40px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(248,69,69,1);
+}
+#n_minimalista {
+	left: 1197px;
+	top: 2358px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	height: 40px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(248,69,69,1);
+}
+#Caminho_160 {
+	fill: rgba(255,7,7,1);
+	stroke: rgba(26,24,24,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Caminho_160 {
+	overflow: visible;
+	position: absolute;
+	width: 156.155px;
+	height: 7.999px;
+	left: 259.669px;
+	top: 2425.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_161 {
+	fill: rgba(255,7,7,1);
+	stroke: rgba(26,24,24,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Caminho_161 {
+	overflow: visible;
+	position: absolute;
+	width: 159.425px;
+	height: 7.999px;
+	left: 588.9px;
+	top: 2425.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_162 {
+	fill: rgba(255,7,7,1);
+	stroke: rgba(26,24,24,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Caminho_162 {
+	overflow: visible;
+	position: absolute;
+	width: 159.425px;
+	height: 7.999px;
+	left: 863.091px;
+	top: 2425.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_163 {
+	fill: rgba(255,7,7,1);
+	stroke: rgba(26,24,24,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Caminho_163 {
+	overflow: visible;
+	position: absolute;
+	width: 156.155px;
+	height: 7.999px;
+	left: 1199.959px;
+	top: 2425.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lorem_ipsum_dolor_sit_amet_con_gb {
+	left: 877px;
+	top: 2445px;
+	position: absolute;
+	overflow: hidden;
+	width: 270px;
+	height: 238px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(109,2,2,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_gc {
+	left: 220px;
+	top: 2445px;
+	position: absolute;
+	overflow: hidden;
+	width: 270px;
+	height: 238px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(109,2,2,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_gd {
+	left: 549px;
+	top: 2445px;
+	position: absolute;
+	overflow: hidden;
+	width: 269px;
+	height: 238px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(109,2,2,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_ge {
+	left: 1206px;
+	top: 2445px;
+	position: absolute;
+	overflow: hidden;
+	width: 270px;
+	height: 238px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(109,2,2,1);
+}
+#tatuagens-scaled {
+	position: absolute;
+	width: 1698px;
+	height: 526px;
+	left: -36px;
+	top: 2788px;
+	overflow: visible;
+}
+#Retngulo_16 {
+	opacity: 0.79;
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_16 {
+	position: absolute;
+	overflow: visible;
+	width: 1600px;
+	height: 526px;
+	left: 0px;
+	top: 2788px;
+}
+#Grupo_109 {
+	position: absolute;
+	width: 904px;
+	height: 463px;
+	left: 367px;
+	top: 2715px;
+	overflow: visible;
+}
+#Tabela_de_preos {
+	left: 335px;
+	top: 36px;
+	position: absolute;
+	overflow: visible;
+	width: 240px;
+	height: 33px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Retngulo_14 {
+	fill: rgba(109,2,2,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_14 {
+	position: absolute;
+	overflow: visible;
+	width: 856px;
+	height: 451px;
+	left: 7px;
+	top: 0px;
+}
+#Retngulo_15 {
+	fill: rgba(109,2,2,1);
+	stroke: rgba(255,251,251,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_15 {
+	position: absolute;
+	overflow: visible;
+	width: 856px;
+	height: 451px;
+	left: 0px;
+	top: 12px;
+}
+#Linha_1 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linha_1 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 267px;
+	left: 428.714px;
+	top: 137.66px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#at_5_cm----------------150r__a {
+	left: 29px;
+	top: 131px;
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 280px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#piencie-----------85r__2_pienc {
+	left: 462px;
+	top: 168px;
+	position: absolute;
+	overflow: visible;
+	width: 443px;
+	height: 198px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,251,251,1);
+}
+#Tabela_de_preos_go {
+	left: 335px;
+	top: 69px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Retngulo_17 {
+	opacity: 0.93;
+	fill: rgba(175,22,22,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_17 {
+	position: absolute;
+	overflow: visible;
+	width: 1600px;
+	height: 113px;
+	left: 0px;
+	top: 3207px;
+}
+#YOUTATOO__-_Todos_os_direitos_ {
+	left: 59px;
+	top: 3243px;
+	position: absolute;
+	overflow: visible;
+	width: 742px;
+	height: 132px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,251,251,1);
+}
